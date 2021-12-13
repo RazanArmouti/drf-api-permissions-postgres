@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "drf-api"
+name = "drf-api-permissions-postgres"
 version = "0.1.0"
 description = ""
 authors = ["Razan Armouti <razanarmote@yahoo.com>"]
